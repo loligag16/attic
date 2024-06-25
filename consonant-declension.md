@@ -29,6 +29,23 @@ cases the accent falls on the first or only syllable.
 
 Nouns of this type, all masculine or feminine, have stems ending in π, β, or φ (labial plosives) or in κ, γ, or χ (velar plosives). 
 
+stem:
+“thief ” (m.)
+κλωπ-
+“guard” (m.)
+φυλακ-
+sing. nom. κλώψ φύλαξ
+gen. κλωπός φύλακος
+dat. κλωπί φύλακι
+acc. κλῶπα φύλακα
+voc. κλώψ φύλαξ
+dual n. a. v. κλῶπε φύλακε
+g. d. κλωποῖν φυλάκοιν
+plural nom. voc. κλῶπες φύλακες
+gen. κλωπῶν φυλάκων
+dat. κλωψί(ν) φύλαξι(ν)
+acc. κλῶπας φύλακας
+
 - The acc. sing. has -ᾰ.
 
 ## Dental Plosive Stems
@@ -86,12 +103,31 @@ type.
 
 Almost all nouns in this group are masculine or feminine.
 
+|||“orator” (m.)| “divinity” (m.)| “contest” (m.)| “salt” (m.)|
+|-|-|-|-|-|-|
+||stem:| ῥητορ-| δαιμον-| ἀγων-| ἁλ-|
+|||||||
+sing.| nom.| ῥήτωρ |δαίμων| ἀγών |ἅλς
+||gen.| ῥήτορος |δαίμονος| ἀγῶνος| ἁλός
+||dat.| ῥήτορι| δαίμονι| ἀγῶνι| ἁλί
+||acc.| ῥήτορα| δαίμονα| ἀγῶνα| ἅλα
+||voc.| ῥῆτορ |δαῖμον| ἀγών| —
+|||||||
+dual |n. a. v. |ῥήτορε| δαίμονε| ἀγῶνε| ἅλε
+||g. d.| ῥητόροιν |δαιμόνοιν| ἀγώνοιν| ἁλοῖν
+|||||||
+plur.| nom. voc.| ῥήτορες |δαίμονες| ἀγῶνες| ἅλες
+||gen.| ῥητόρων| δαιμόνων| ἀγώνων| ἁλῶν
+||dat.| ῥήτορσι(ν)| δαίμοσι(ν)| ἀγῶσι(ν)| ἁλσί(ν)
+||acc.| ῥήτορας| δαίμονας| ἀγῶνας| ἅλας
+
 - The nom. and voc. sing. have no case ending, but the nom. has a strong-vowel
 form of the stem: e.g., ω for ο in ῥήτωρ and δαίμων. An exception is ἅλς, the
 only noun in λ, which adds -ς in the nom.
 - Acc. sing. has -ᾰ.
 - Stems with final ν do not exhibit it in the dat. pl., but there is no compensatory
 lengthening.
+
 
 ## Irregular Stems in ρ
 
