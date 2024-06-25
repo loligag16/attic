@@ -105,6 +105,24 @@ stems ending in ρ: πατήρ ( father), μήτηρ (mother), and θυγάτη�
 The common noun ἀνήρ is similar, but the Attic forms have δ inserted before ρ in all
 cases except the nominative and vocative singular.
 
+|||“ father” (m.)| “mother” ( f.)| “daughter” ( f.)| “man” (m.)|
+|---|---|---|---|---|---|
+||stems:| πατ(ε)ρ-| μητ(ε)ρ-| θυγατ(ε)ρ-| ἀνερ-, ἀνδρ-|
+|||||||
+sing.| nom.| πατήρ| μήτηρ| θυγάτηρ| ἀνήρ
+||gen.| πατρός |μητρός| θυγατρός| ἀνδρός
+||dat.| πατρί |μητρί| θυγατρί| ἀνδρί
+||acc.| πατέρα |μητέρα| θυγατέρα| ἄνδρα
+||voc.| πάτερ |μῆτερ| θύγατερ| ἄνερ
+|||||||
+dual| n. a. v.| πατέρε| μητέρε| θυγατέρε| ἄνδρε
+||g. d.| πατέροιν| μητέροιν| θυγατέροιν| ἀνδροῖν
+|||||||
+plur.| nom. voc.| πατέρες| μητέρες| θυγατέρες| ἄνδρες
+||gen.| πατέρων| μητέρων| θυγατέρων| ἀνδρῶν
+||dat.| πατράσι(ν)| μητράσι(ν)| θυγατράσι(ν)| ἀνδράσι(ν)
+||acc.| πατέρας |μητέρας| θυγατέρας| ἄνδρας 
+
 - The voc. sing. of all four nouns has recessive accentuation.
 - The nom. sing. of μήτηρ and θυγάτηρ also has recessive accentuation.
 - The trisyllabic forms of πατήρ and μήτηρ are accented on the second syllable
@@ -135,6 +153,24 @@ A few sigma-stem neuters have final -ασ- (e.g., γέρας): again, whenever t
 drops out, contraction takes place. In the paradigms, the uncontracted forms (some-
 times found in poetry and in other dialects) are shown in parentheses after the Attic
 prose forms.
+
+| | |“Socrates” (m.)|“kind, race” (n.)| “prize, honor” (n.)|
+|---|---|---|---|---|
+||stem:| Σωκρατε(σ)-| γενε(σ)-| γερα(σ)-|
+|||||
+s.| nom.| Σωκράτης |γένος| γέρας
+||gen.| Σωκράτους (Σωκράτεος)| γένους (γένεος)| γέρως (γέραος)
+||dat.| Σωκράτει (Σωκράτεϊ)| γένει (γένεϊ)| γέρᾳ (γέραϊ)
+||acc. |Σωκράτη (Σωκράτεα)| γένος| γέρας
+||voc.| Σώκρατες |γένος| γέρας
+|||||
+d. |n.a.v.| Σωκράτει (Σωκράτεε)| γένει (γένεε)| γέρᾱ (γέραε)
+||g. d.| Σωκρατοῖν (Σωκρατέοιν)| γενοῖν (γενέοιν)| γερῷν (γεράοιν)
+|||||
+pl. |n. v. |Σωκράτεις (Σωκράτεες) |γένη (γένεα) |γέρᾱ (γέραα)
+||gen.| Σωκρατῶν (Σωκρατέων)| γενῶν (γενέων)| γερῶν (γεράων)
+||dat. |Σωκράτεσι(ν) (Σωκράτεσσι) |γένεσι(ν) (γένεσσι) |γέρασι(ν) (γέρασσι)
+||acc.| Σωκράτεις |γένη (γένεα)| γέρᾱ (γέραα)
 
 ## Exceptions
 
