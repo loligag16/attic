@@ -29,22 +29,23 @@ cases the accent falls on the first or only syllable.
 
 Nouns of this type, all masculine or feminine, have stems ending in π, β, or φ (labial plosives) or in κ, γ, or χ (velar plosives). 
 
-stem:
-“thief ” (m.)
-κλωπ-
-“guard” (m.)
-φυλακ-
-sing. nom. κλώψ φύλαξ
-gen. κλωπός φύλακος
-dat. κλωπί φύλακι
-acc. κλῶπα φύλακα
-voc. κλώψ φύλαξ
-dual n. a. v. κλῶπε φύλακε
-g. d. κλωποῖν φυλάκοιν
-plural nom. voc. κλῶπες φύλακες
-gen. κλωπῶν φυλάκων
-dat. κλωψί(ν) φύλαξι(ν)
-acc. κλῶπας φύλακας
+|||“thief ” (m.)| “guard” (m.)|
+|-|-|-|-|
+||stem:| κλωπ-| φυλακ-
+|||||
+sing.| nom.| κλώψ| φύλαξ
+||gen.| κλωπός| φύλακος
+||dat.| κλωπί| φύλακι
+||acc.| κλῶπα| φύλακα
+||voc.| κλώψ| φύλαξ
+|||||
+dual |n. a. v. |κλῶπε| φύλακε
+||g. d.| κλωποῖν| φυλάκοιν
+|||||
+plural |nom. voc.| κλῶπες |φύλακες
+||gen.| κλωπῶν| φυλάκων
+||dat. |κλωψί(ν)| φύλαξι(ν)
+||acc.| κλῶπας |φύλακας
 
 - The acc. sing. has -ᾰ.
 
@@ -57,6 +58,24 @@ dental plosives.
 
 Dental plosives of this group are for the most part
 nouns with the nom. sing. in -ις. Fewer nouns have the nom. sing. in -ας or -υς.
+
+|||“ favor” ( f.)| “shield” ( f.)| “bird” (m., f.) |“exile” (m., f.)|
+|-|-|-|-|-|-|
+||stem:| χαριτ-, χαρι-| ἀσπιδ-, ἀσπι-| ὀρνιθ-, ὀρνι-| φυγαδ-
+|||||
+sing.| nom.| χάρις |ἀσπίς| ὄρνις| φυγάς
+||gen.| χάριτος |ἀσπίδος| ὄρνιθος| φυγάδος
+||dat. |χάριτι| ἀσπίδι| ὄρνιθι| φυγάδι
+||acc. |χάριν| ἀσπίδα| ὄρνιν| φυγάδα
+||voc. |χάρι| ἀσπί| ὄρνι| φυγάς
+|||||
+dual |n. a. v.| χάριτε |ἀσπίδε| ὄρνιθε| φυγάδε
+||g. d.| χαρίτοιν| ἀσπίδοιν| ὀρνίθοιν| φυγάδοιν
+|||||
+plur.| nom. voc. |χάριτες| ἀσπίδες| ὄρνιθες| φυγάδες
+||gen.| χαρίτων| ἀσπίδων| ὀρνίθων| φυγάδων
+||dat.| χάρισι(ν)| ἀσπίσι(ν)| ὄρνισι(ν)| φυγάσι(ν)
+||acc.| χάριτας| ἀσπίδας| ὄρνιθας| φυγάδας
 
 - Nouns in -ις were in origin i-stems without a dental plosive, and this accounts
 for the existence of two stems. The shorter stem survives in the nom. and voc.
@@ -75,6 +94,24 @@ consonant) is used, and the acc. sing. ending is -ᾰ (e.g., ἀσπίς → ἀ
 The full form of the stem is visible, as usual, in
 the genitive singular, and the nominative and vocative singular and dative plural are
 again the cases that show variation.
+
+|||“old man” (m.)| “giant” (m.)| “tooth” (m.)|
+|-|-|-|-|-|
+||stem:| γεροντ-| γιγᾰντ-| ὀδοντ-
+||||
+sing.| nom.| γέρων |γίγᾱς| ὀδούς
+||gen.| γέροντος |γίγαντος| ὀδόντος
+||dat.| γέροντι| γίγαντι| ὀδόντι
+||acc.| γέροντα| γίγαντα| ὀδόντα
+||voc.| γέρον| γίγᾰν| ὀδούς
+||||
+dual |n. a. v.| γέροντε| γίγαντε| ὀδόντε
+||g. d.| γερόντοιν| γιγάντοιν| ὀδόντοιν
+||||
+plur. |nom. voc.| γέροντες| γίγαντες| ὀδόντες
+||gen.| γερόντων| γιγάντων| ὀδόντων
+||dat.| γέρουσι(ν)| γίγᾱσι(ν) |ὀδοῦσι(ν)
+||acc.| γέροντας |γίγαντας| ὀδόντας
 
 - In nouns like γέρων, the nom. sing. has no ending added (and tau has been
 dropped for phonetic reasons) but shows a strong-vowel form of the stem (ω
@@ -98,6 +135,24 @@ the final tau is dropped.
 - The nom., acc., and voc. pl. form has short alpha (-ᾰ), like all neuter forms.
 - In the dat. pl. the tau does not appear, by analogy with dental stems of the first
 type.
+
+|||“thing” (n.) |“portent” (n.)|
+|-|-|-|-|
+||stem:| πραγματ-| τερατ-
+|||
+sing.| nom.| πρᾶγμα| τέρας
+||gen.| πράγματος| τέρατος
+||dat.| πράγματι| τέρατι
+||acc. |πρᾶγμα| τέρας
+||voc. |πρᾶγμα| τέρας
+|||
+dual |n. a. v.| πράγματε| τέρατε
+||g. d.| πραγμάτοιν| τεράτοιν
+|||
+plur. |nom. voc.| πράγματα| τέρατα
+||gen.| πραγμάτων |τεράτων
+||dat. |πράγμασι(ν) |τέρασι(ν)
+||acc. |πράγματα| τέρατα
 
 ## Consonant Stems Ending in a Liquid (λ, ρ) or Nasal (ν)
 
